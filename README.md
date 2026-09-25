@@ -5,26 +5,18 @@ A centralized showcase of software, hardware modeling, and system architectures.
 
 ## Included Projects
 
-### 1. [Hybrid RAG Pipeline](./projects/project-one)
+### 1. [Hybrid RAG Pipeline](https://github.com/Theone178/RAG/tree/b392a174c16d13626c9cc937d06217a2272419b9)
 * **Tech Stack:** Python, LangChain, Hugging Face, MongoDB Atlas, Docker, Kubernetes
 * **Overview:** An end-to-end Retrieval-Augmented Generation (RAG) system utilizing semantic vector search and keyword matching to ground responses in factual context.
 * **Key Highlights:** Integrated Reciprocal Rank Fusion (RRF) for optimized retrieval, and deployed as a CPU-optimized, modular container to Kubernetes using declarative YAML.
 
-### 2. [Quantum Adversarial Learning Framework](./projects/project-two)
+### 2. [Quantum Adversarial Learning Framework](https://github.com/Theone178/QVAEQCNN/tree/77fa7fa3522b8853e927ce81e28c4abdad8a2483)
 * **Tech Stack:** Python, Qiskit 2.2.3, Qiskit Aer, PyTorch, NumPy, Matplotlib
 * **Overview:** A hybrid quantum-classical adversarial machine learning system combining a Q-VAE quantum encoder with a Q-CNN feature classifier
 * **Key Highlights:** Engineered an ALS + QPSO adversary yielding a 114% payoff boost and evaluated gradient stability via Parameter Shift Rules while modeling NISQ noise profiles
 
-### 2. [Quantum Reinforcement Learning: The Wall Drop](./projects/project-two)
+### 3. [Quantum Reinforcement Learning: The Wall Drop](https://github.com/Theone178/QRL/tree/7f9ee6ac78214fb90521921e3a63b06e7a92ff52)
 * **Tech Stack:** Python, Google Cirq, Reinforcement Learnin
 * **Overview:** A dynamic 5x5 gridworld environment that shifts mid-training to evaluate resistance to catastrophic forgetting in quantum reinforcement learning agent
-* **Key Highlights:** Implemented 7 core algorithmic upgrades including Prioritised Experience Replay and adaptive Grover beta decay, achieving a 96.6% win rate against classical baselines
+* **Key Highlights:** Implemented 7 core algorithmic upgrades including Prioritised Experience Replay and adaptive Grover beta decay, achieving a 96.6% win rate against classical baselines.
 
-## Repository Structure
-
-projects-portfolio/
-├── README.md
-└── projects/
-    ├── project-one/ # (Git Submodule)
-    ├── project-two/ # (Git Submodule)
-    └── project-three/ # (Git Submodule)
