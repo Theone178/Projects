@@ -1,0 +1,12 @@
+[submodule "RAG"]
+	path = RAG
+	url = https://github.com/Theone178/RAG
+[submodule "Projects/project-one"]
+	path = Projects/project-one
+	url = https://github.com/Theone178/RAG.git
+[submodule "Projects/project-two"]
+	path = Projects/project-two
+	url = https://github.com/Theone178/QVAEQCNN.git
+[submodule "Projects/project-three"]
+	path = Projects/project-three
+	url = https://github.com/Theone178/QRL.git
